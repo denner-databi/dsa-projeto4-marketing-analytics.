@@ -1,0 +1,50 @@
+{
+  "name": "Marketing Paleta Mostarda",
+  "dataColors": [
+    "#E5A93B",
+    "#4A6984",
+    "#2B2D42",
+    "#606C38",
+    "#BC4749"
+  ],
+  "background": "#F8F9FA",
+  "foreground": "#2B2D42",
+  "tableAccent": "#E5A93B",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [
+          {
+            "show": true,
+            "color": { "solid": { "color": "#FFFFFF" } },
+            "transparency": 0
+          }
+        ],
+        "border": [
+          {
+            "show": false
+          }
+        ],
+        "dropShadow": [
+          {
+            "show": true,
+            "color": { "solid": { "color": "#000000" } },
+            "position": "Outer",
+            "preset": "BottomRight",
+            "transparency": 95
+          }
+        ]
+      }
+    },
+    "page": {
+      "*": {
+        "background": [
+          {
+            "color": { "solid": { "color": "#F8F9FA" } },
+            "transparency": 0
+          }
+        ]
+      }
+    }
+  }
+}

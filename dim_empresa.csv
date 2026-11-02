@@ -1,0 +1,31 @@
+SK_Empresa,ID_Empresa,Nome_Empresa,Setor_Atuacao,Contato
+1,EMP001,ABC Corp,Transporte,contato@abc.com
+2,EMP002,Tech Innovators,Saude,contato@techinnovators.com
+3,EMP003,Green Energy Ltd,Midia,contato@greenenergy.com
+4,EMP004,HealthPlus,Transporte,contato@healthplus.com
+5,EMP005,EduSmart,Tecnologia,contato@edusmart.com
+6,EMP006,Global Logistics,Saude,contato@globallogistics.com
+7,EMP007,FutureTech,Transporte,contato@futuretech.com
+8,EMP008,Creative Solutions,Energia,contato@creativesolutions.com
+9,EMP009,FinTech Group,Transporte,contato@fintech.com
+10,EMP010,BlueOcean Industries,Transporte,contato@blueocean.com
+11,EMP011,EcoBuild,Midia,contato@ecobuild.com
+12,EMP012,PharmaLife,Saude,contato@pharmalife.com
+13,EMP013,AgroWorld,Tecnologia,contato@agroworld.com
+14,EMP014,City Transport,Logistica,contato@citytransport.com
+15,EMP015,MediaWave,Agronegocio,contato@mediawave.com
+16,EMP016,Sportify,Transporte,contato@sportify.com
+17,EMP017,TravelNow,Energia,contato@travelnow.com
+18,EMP018,BrightEducation,Midia,contato@brighteducation.com
+19,EMP019,CloudServices,Energia,contato@cloudservices.com
+20,EMP020,CleanWater Solutions,Energia,contato@cleanwater.com
+21,EMP021,Digital Ventures,Saude,contato@digitalventures.com
+22,EMP022,Urban Development,Logistica,contato@urbandevelopment.com
+23,EMP023,SmartHome Tech,Logistica,contato@smarthome.com
+24,EMP024,Medical Experts,Logistica,contato@medicalexperts.com
+25,EMP025,Agriculture Partners,Midia,contato@agriculturepartners.com
+26,EMP026,NextGen Media,Energia,contato@nextgenmedia.com
+27,EMP027,SmartFinance,Agronegocio,contato@smartfinance.com
+28,EMP028,Construction Innovators,Agronegocio,contato@constructioninnovators.com
+29,EMP029,FashionForward,Saude,contato@fashionforward.com
+30,EMP030,HealthyLiving,Financas,contato@healthyliving.com
